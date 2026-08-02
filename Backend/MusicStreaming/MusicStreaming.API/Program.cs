@@ -19,6 +19,11 @@ builder.Services.AddDbContext<MusicStreamingDbContext>(options =>
 
 // Dependency Injection
 builder.Services.AddScoped<IAuthService, AuthService>();
+
+// Song Service
+builder.Services.AddScoped<ISongService, SongService>();
+
+// JWT Helper
 builder.Services.AddScoped<JwtHelper>();
 
 // JWT Authentication

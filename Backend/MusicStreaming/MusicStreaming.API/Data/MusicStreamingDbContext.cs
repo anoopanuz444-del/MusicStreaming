@@ -15,5 +15,8 @@ namespace MusicStreaming.API.Data
 
         // Artist table (NEW)
         public DbSet<Artist> Artists { get; set; }
+
+        // Songs table (NEW)
+        public DbSet<Song> Songs { get; set; }
     }
 }

@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using MusicStreaming.API.Data;
 
@@ -11,9 +12,11 @@ using MusicStreaming.API.Data;
 namespace MusicStreaming.API.Migrations
 {
     [DbContext(typeof(MusicStreamingDbContext))]
-    partial class MusicStreamingDbContextModelSnapshot : ModelSnapshot
+    [Migration("20260802153029_AddSongTable")]
+    partial class AddSongTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
