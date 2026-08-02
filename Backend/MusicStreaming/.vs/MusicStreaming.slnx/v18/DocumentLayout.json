@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\controllers\\playlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\services\\playlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\interfaces\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\interfaces\\iplaylistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\dtos\\playlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\dtos\\playlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Migrations\\20260802174712_AddPlaylistTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MusicStreaming.API\\Migrations\\20260802174712_AddPlaylistTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\data\\musicstreamingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\data\\musicstreamingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\entities\\playlistsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\entities\\playlistsong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|d:\\projects\\musicstreaming\\backend\\musicstreaming\\musicstreaming.api\\entities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4895FBE2-48C7-BF9F-1E85-39148D8A5EF8}|MusicStreaming.API\\MusicStreaming.API.csproj|solutionrelative:musicstreaming.api\\entities\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlaylistController.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Controllers\\PlaylistController.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Controllers\\PlaylistController.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Controllers\\PlaylistController.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Controllers\\PlaylistController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:54:57.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlaylistService.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Services\\PlaylistService.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Services\\PlaylistService.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Services\\PlaylistService.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Services\\PlaylistService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:53:56.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Program.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Program.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:51:13.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlaylistService.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Interfaces\\IPlaylistService.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Interfaces\\IPlaylistService.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Interfaces\\IPlaylistService.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Interfaces\\IPlaylistService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:49:11.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlaylistDto.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\DTOs\\PlaylistDto.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\DTOs\\PlaylistDto.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\DTOs\\PlaylistDto.cs",
+              "RelativeToolTip": "MusicStreaming.API\\DTOs\\PlaylistDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:48:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260802174712_AddPlaylistTables.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Migrations\\20260802174712_AddPlaylistTables.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Migrations\\20260802174712_AddPlaylistTables.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Migrations\\20260802174712_AddPlaylistTables.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Migrations\\20260802174712_AddPlaylistTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:47:12.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MusicStreamingDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Data\\MusicStreamingDbContext.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Data\\MusicStreamingDbContext.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Data\\MusicStreamingDbContext.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Data\\MusicStreamingDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:46:29.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlaylistSong.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Entities\\PlaylistSong.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Entities\\PlaylistSong.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Entities\\PlaylistSong.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Entities\\PlaylistSong.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:45:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Entities\\Playlist.cs",
+              "RelativeDocumentMoniker": "MusicStreaming.API\\Entities\\Playlist.cs",
+              "ToolTip": "D:\\Projects\\MusicStreaming\\Backend\\MusicStreaming\\MusicStreaming.API\\Entities\\Playlist.cs",
+              "RelativeToolTip": "MusicStreaming.API\\Entities\\Playlist.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T17:44:43.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

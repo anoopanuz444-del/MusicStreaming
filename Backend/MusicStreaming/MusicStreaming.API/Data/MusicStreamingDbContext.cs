@@ -18,5 +18,11 @@ namespace MusicStreaming.API.Data
 
         // Songs table (NEW)
         public DbSet<Song> Songs { get; set; }
+
+        // Playlist table
+        public DbSet<Playlist> Playlists { get; set; }
+
+        // PlaylistSong table
+        public DbSet<PlaylistSong> PlaylistSongs { get; set; }
     }
 }

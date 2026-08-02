@@ -23,8 +23,11 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 // Song Service
 builder.Services.AddScoped<ISongService, SongService>();
 
+builder.Services.AddScoped<IPlaylistService, PlaylistService>();
+
 // JWT Helper
 builder.Services.AddScoped<JwtHelper>();
+
 
 // JWT Authentication
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
