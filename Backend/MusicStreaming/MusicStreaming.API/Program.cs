@@ -25,6 +25,8 @@ builder.Services.AddScoped<ISongService, SongService>();
 
 builder.Services.AddScoped<IPlaylistService, PlaylistService>();
 
+builder.Services.AddScoped<IPlaylistSongService, PlaylistSongService>();
+
 // JWT Helper
 builder.Services.AddScoped<JwtHelper>();
 
